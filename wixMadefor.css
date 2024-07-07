@@ -1,0 +1,205 @@
+/* new wixMadefor font*/
+
+/* Madefor Display */
+@font-face{
+    font-family:"Madefor-Display";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family:"Madefor-Display-Bold";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 700;
+}
+
+@font-face{
+    font-family:"Madefor-Display-ExtraBold";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 800;
+}
+
+/* Madefor Text */
+/* Regular */
+@font-face{
+    font-family:"Madefor-Text";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family:"Madefor-Text";
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 400;
+}
+
+/* MediumBold */
+@font-face{
+    font-family:"Madefor-Text-MediumBold";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 530;
+}
+
+@font-face{
+    font-family:"Madefor-Text-MediumBold";
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 530;
+}
+
+/* Bold */
+@font-face{
+    font-family:"Madefor-Text-Bold";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 700;
+}
+
+@font-face{
+    font-family:"Madefor-Text-Bold";
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 700;
+}
+
+/* ExtraBold */
+@font-face{
+    font-family:"Madefor-Text-ExtraBold";
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 800;
+}
+
+@font-face{
+    font-family:"Madefor-Text-ExtraBold";
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+    font-weight: 800;
+}
+
+/* Mobile Specific FontFaces */
+@font-face {
+    font-family: "WixMadeforDisplayApp-Regular";
+    font-display: swap;
+    font-weight: 400;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforDisplayApp-Bold";
+    font-display: swap;
+    font-weight: 700;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforDisplayApp-ExtraBold";
+    font-display: swap;
+    font-weight: 700;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+  
+  @font-face {
+    font-family: "WixMadeforTextApp-Regular";
+    font-display: swap;
+    font-weight: 400;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+  
+  @font-face {
+    font-family: "WixMadeforTextApp-Medium";
+    font-display: swap;
+    font-weight: 530;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforTextApp-Bold";
+    font-display: swap;
+    font-weight: 700;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforTextApp-ExtraBold";
+    font-display: swap;
+    font-weight: 800;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+  
+  @font-face {
+    font-family: "WixMadeforTextApp-Italic";
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforTextApp-MediumItalic";
+    font-display: swap;
+    font-weight: 530;
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+  
+  @font-face {
+    font-family: "WixMadeforTextApp-BoldItalic";
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+  @font-face {
+    font-family: "WixMadeforTextApp-ExtraBoldItalic";
+    font-display: swap;
+    font-weight: 800;
+    font-style: italic;
+    src: url("") format('woff2-variations'),
+    url("") format("woff2"),
+    url("") format("woff");
+  }
+
+

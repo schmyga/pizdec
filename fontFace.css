@@ -1,0 +1,218 @@
+/* fonts helvetica */
+
+/* Original old fonts */
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url("") format("embedded-opentype"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Thin";
+    font-weight: 200;
+    src: url("") format("embedded-opentype"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Medium";
+    font-weight: bold;
+    src: url("") format("embedded-opentype"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+/* Kwazimodo temporary studio fonts */
+
+@font-face{
+    font-family:"Helvetica Neue Ultralight";
+    src:url("");
+    src:url("") format("eot"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face {
+    font-family: "Helvetica Neue Italic";
+    font-style: italic;
+    src: url("") format("embedded-opentype"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Light";
+    src:url("");
+    src:url("") format("eot"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Bold";
+    src:url("");
+    src:url("") format("eot"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+@font-face{
+    font-family:"Helvetica Neue Black";
+    src:url("");
+    src:url("") format("eot"),
+    url("") format("woff"),
+    url("") format("truetype"),
+    url("") format("svg");
+}
+
+/* New Studio fonts */
+
+@font-face{
+    font-family:"HelveticaNeueW01-UltLt";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-Thin";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-UltLt";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-Thin";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-45Ligh";
+    src:url("");
+    src:url("") format("eot"),url("530dee22-e3c1-4e9f-bf62-c31d510d9656.woff") format("woff"),url("688ab72b-4deb-4e15-a088-89166978d469.ttf") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-55Roma";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-65Medi";
+    font-weight: bold;
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-75Bold";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW01-95Blac";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-45Ligh";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-55Roma";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-65Medi";
+    font-weight: bold;
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-75Bold";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW02-95Blac";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-45Ligh";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-65Medi";
+    font-weight: bold;
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-75Bold";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-95Blac";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-35Thin";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-25UltL";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+@font-face{
+    font-family:"HelveticaNeueW10-55Roma";
+    src:url("");
+    src:url("") format("eot"),url("") format("woff"),url("") format("truetype"),url("") format("svg");
+}
+
+
+/*
+This CSS resource incorporates links to font software which is
+the valuable copyrighted property of Monotype Imaging and/or
+its suppliers. You may not attempt to copy, install, redistribute, convert,
+modify or reverse engineer this font software. Please contact Monotype Imaging
+with any questions regarding Web Fonts:  http://webfonts.fonts.com
+*/
+
+/* END fonts helvetica */
